@@ -1,0 +1,8 @@
+path: .../yolo_training/dataset/ # absolute path to dataset, to fill
+test: test/images # relative path to test images
+train: train/images # relative path to training images
+val: val/images # relative path to validation images
+
+# classes
+names:
+  0: label_name

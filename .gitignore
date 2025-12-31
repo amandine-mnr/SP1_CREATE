@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.jpg
+*.png
+
+1.44inch-LCD-HAT-Code/
+nav-venv/
+install/
+log/
+build/

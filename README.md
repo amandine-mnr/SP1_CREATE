@@ -10,8 +10,7 @@ Instructions to run the code :
 ```
 ssh <user-id>@<name>.local         # connect to the Pi in SSH  
 . setup_robot.sh                   # init script  
-cd SP1_CREATE/ros_robot/           # navigate to ROS workspace
-source install/setup.bash          # setup ROS  
+cd SP1_CREATE/ros_robot/           # navigate to ROS workspace  
 colcon build                       # build if needed
 
 # Run each node in a separate terminal   

@@ -3,8 +3,7 @@ __pycache__/
 *.jpg
 *.png
 
-1.44inch-LCD-HAT-Code/
-nav-venv/
+SP-venv/
 install/
 log/
 build/

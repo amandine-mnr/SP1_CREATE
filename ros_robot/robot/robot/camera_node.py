@@ -2,7 +2,7 @@ import rclpy
 from rclpy.node import Node
 from std_msgs.msg import String, Int32
 
-from .yolo_lib import YOLOTracker, DETECTION_STATIC, DETECTION_MOV
+from .camera_lib import YOLOTracker, DETECTION_STATIC, DETECTION_MOV
 
 class YoloMovementNode(Node):
     def __init__(self):

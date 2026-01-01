@@ -8,7 +8,7 @@ from .config_api import *
 from .API_func import *
 from .lib import *
 from .display_lib import DISP_WAIT, DISP_MOVE
-from .yolo_lib import DETECTION_STATIC, DETECTION_MOV
+from .camera_lib import DETECTION_STATIC, DETECTION_MOV
 from .localization import *
 
 # Robot states
